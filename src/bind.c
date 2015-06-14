@@ -6,6 +6,7 @@ xx(mips/irix,    mipsebIR) \
 xx(sparc/sun,    sparcIR) \
 xx(sparc/solaris,solarisIR) \
 xx(x86/win32,    x86IR) \
+xx(x86/nasmw,    x86nasmwIR) \
 xx(x86/linux,    x86linuxIR) \
 xx(symbolic/osf, symbolic64IR) \
 xx(symbolic/irix,symbolicIR) \
